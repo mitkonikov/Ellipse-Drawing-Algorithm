@@ -1,0 +1,8 @@
+c:\users\pcc\documents\visual studio 2012\Projects\EllipseDrawingAlgorithm\EllipseDrawingAlgorithm\bin\Debug\EllipseDrawingAlgorithm.exe.config
+c:\users\pcc\documents\visual studio 2012\Projects\EllipseDrawingAlgorithm\EllipseDrawingAlgorithm\bin\Debug\EllipseDrawingAlgorithm.exe
+c:\users\pcc\documents\visual studio 2012\Projects\EllipseDrawingAlgorithm\EllipseDrawingAlgorithm\bin\Debug\EllipseDrawingAlgorithm.pdb
+c:\users\pcc\documents\visual studio 2012\Projects\EllipseDrawingAlgorithm\EllipseDrawingAlgorithm\obj\Debug\EllipseDrawingAlgorithm.Form1.resources
+c:\users\pcc\documents\visual studio 2012\Projects\EllipseDrawingAlgorithm\EllipseDrawingAlgorithm\obj\Debug\EllipseDrawingAlgorithm.Properties.Resources.resources
+c:\users\pcc\documents\visual studio 2012\Projects\EllipseDrawingAlgorithm\EllipseDrawingAlgorithm\obj\Debug\EllipseDrawingAlgorithm.csproj.GenerateResource.Cache
+c:\users\pcc\documents\visual studio 2012\Projects\EllipseDrawingAlgorithm\EllipseDrawingAlgorithm\obj\Debug\EllipseDrawingAlgorithm.exe
+c:\users\pcc\documents\visual studio 2012\Projects\EllipseDrawingAlgorithm\EllipseDrawingAlgorithm\obj\Debug\EllipseDrawingAlgorithm.pdb
